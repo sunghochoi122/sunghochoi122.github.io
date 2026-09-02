@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate in Electrical Engineering at **KAIST**, advised by [Prof. Youngchul Sung](https://scholar.google.com/citations?user=your_advisor_id).
+I am a final-year Ph.D. candidate in Electrical Engineering at **KAIST**, advised by [Prof. Youngchul Sung](https://sites.google.com/view/youngchulsung).
 
 My research interests lie in **Reinforcement Learning (RL)** and **Robotics**, with a particular focus on **Cross-Domain Imitation Learning (CDIL)** and domain adaptation (Real2Sim / Sim-to-Real). I work on developing robust algorithms that enable robots and artificial agents to learn effectively across different visual and dynamics domains.
 
