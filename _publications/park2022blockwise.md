@@ -1,7 +1,7 @@
 ---
 title: "Blockwise Sequential Model Learning for Partially Observable Reinforcement Learning"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/park2022blockwise
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: Feb. 2022
