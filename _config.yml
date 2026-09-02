@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Sungho Choi"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Electrical Engineering at KAIST"
+  bio              : "Ph.D. Candidate in Electrical Engineering at KAIST <\br> sungho.choi@kaist.ac.kr"
   location         : "Daejeon, Republic of Korea"
   employer         : "KAIST"
   uri              : "https://sites.google.com/view/sisrelkaist/members/shchoi"
-  email            : "sungho.choi@kaist.ac.kr" 
+  email            : # "sungho.choi@kaist.ac.kr" 
 
   # Academic websites
   academia         : # URL
