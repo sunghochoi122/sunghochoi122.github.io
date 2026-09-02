@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electical Engineering, Korea Advanced Institute of Science and Technology, Korea, 2027 (expected)
-* M.S. in Electical Engineering, Korea Advanced Institute of Science and Technology, Korea, 2020
-* B.S. in Electical Engineering, Yonsei University, Korea, 2018
+* Ph.D in Electical Engineering, Korea Advanced Institute of Science and Technology, Republic of Korea, 2027 (expected)
+* M.S. in Electical Engineering, Korea Advanced Institute of Science and Technology, Republic of Korea, 2020
+* B.S. in Electical Engineering, Yonsei University, Republic of Korea, 2018
 <!-- 
 Work experience
 ======
