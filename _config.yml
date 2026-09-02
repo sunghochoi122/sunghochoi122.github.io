@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : "https://scholar.google.com/citations?user=j-aDDnMAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=j-aDDnMAAAAJ" # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-9843-1746"
+  orcid            : "https://orcid.org/0000-0001-9843-1746" # URL
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/sunghochoi122"
+  github           : "sunghochoi122" # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
